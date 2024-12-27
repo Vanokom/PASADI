@@ -1,0 +1,11 @@
+E:\dotomerloader\Inject\Inject\bin\Dev\Pixel And Super Anonim Dotomer Injecter V 1.1.exe.config
+E:\dotomerloader\Inject\Inject\bin\Dev\Pixel And Super Anonim Dotomer Injecter V 1.1.exe
+E:\dotomerloader\Inject\Inject\bin\Dev\Fluxx.dll
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.csproj.AssemblyReference.cache
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.Form1.resources
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.Form2.resources
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.Properties.Resources.resources
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.csproj.GenerateResource.cache
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.csproj.CoreCompileInputs.cache
+E:\dotomerloader\Inject\Inject\obj\Dev\Inject.csproj.Up2Date
+E:\dotomerloader\Inject\Inject\obj\Dev\Pixel And Super Anonim Dotomer Injecter V 1.1.exe
